@@ -251,6 +251,4 @@ Yes, Figma is free for students. Figma Make features may require the free trial 
 | AI documentation | Transparent, shows iteration |
 | User testing | Honest feedback, thoughtful reflection |
 
-**Remember:** The AI makes the mockup. You make it meaningful.
-
 Good luck! 🚀
